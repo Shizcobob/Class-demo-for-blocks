@@ -1,0 +1,98 @@
+.outsidebox {
+    margin: 0 auto;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+
+.big-red-row {
+    height: 375px;
+    width: 500;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.white-upper {
+    height: 375px;
+    width: 125px;
+    background-color: green;
+    border: 5px solid black;
+}
+
+.white-top {
+    height: 187.5px;
+    width: 125px;
+    background-color: white;
+    border-bottom: 5px solid black;
+
+}
+
+.white-bottom {
+    height: 187.5px;
+    width: 125px;
+    background-color: white;
+
+}
+
+.red-cube {
+    height: 375px;
+    width: 375px;
+    background-color: red;
+    border: 5px solid black;
+    border-left: none;
+}
+
+.littlebluerow {
+    width: 500px;
+    height: 125px;
+    background-color: yellow;
+    display: flex;
+
+}
+
+.blue-cube {
+    height: 125px;
+    width: 130px;
+    background-color: blue;
+    border: 5px solid black;
+
+
+
+}
+
+.white-long {
+    height: 125px;
+    width: 295px;
+    background-color: white;
+    border-bottom: 5px solid black;
+    border: 5px solid black;
+    border: 5px solid black;
+    border-left: none;
+
+}
+
+.litte-cubes {
+    width: 75px;
+    height: 125px;
+    background-color: mediumspringgreen;
+
+    border: 5px solid black;
+    border-left: none;
+}
+
+.litte-top {
+    width: 75px;
+    height: 60px;
+    background-color: white;
+
+
+
+}
+
+.litte-bottom {
+    width: 75px;
+    height: 61px;
+    background-color: yellow;
+    border-top: 5px solid black;
+}
